@@ -9,5 +9,5 @@ I am currently a postdoctoral fellow in the School of Mathematics and Statistics
 Email: haowu[at]xjtu.edu.cn
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+My research interests include probability theory, information theory, and their intersection, with a particular focus on entropy along heat flows, noise stability, and various isoperimetric and functional inequalities.
 
