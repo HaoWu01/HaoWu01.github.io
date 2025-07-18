@@ -5,7 +5,7 @@ information,” 2025.[[arxiv](https://arxiv.org/abs/2504.01837v2)]
 
 #### Published
 
-- <strong>H. Wu</strong>, L. Yu, and L. Guo “On the complete monotonicity of Rényi entropy,” <strong> IEEE
+- <strong>H. Wu</strong>, L. Yu, and L. Guo, “On the complete monotonicity of Rényi entropy,” <strong> IEEE
 Transactions on Information Theory</strong>, vol. 71, no. 7, pp. 4895–4914, 2025.[[arxiv](https://arxiv.org/abs/2312.01819v3)]
 
 - L. Yu and <strong>H. Wu</strong>, “Rényi–Sobolev inequalities and connections to spectral graph theory,” <strong> IEEE
