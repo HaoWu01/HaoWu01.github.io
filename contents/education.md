@@ -1,16 +1,6 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Student, 2024.
-
-- First-Prize Scholarship (CUMT), 2024.
-
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- Ph.D., School of Statistics and Data Science, Nankai University, 2021—2025.
+  
+- M.S., School of Mathematical Sciences, Nankai University, 2018—2021.
+  
+- B.S., School of Mathematics, Sichuan University, 2013—2017.
