@@ -1,8 +1,6 @@
 
-## Education
-
-- **Bachelor of Science in Computer Science**  
-  XYZ University (2015-2019)
-
-- **Master of Science in Software Engineering**  
-  ABC University (2019-2021)
+- Ph.D., School of Statistics and Data Science, Nankai University, 2021—2025.
+  
+- M.S., School of Mathematical Sciences, Nankai University, 2018—2021.
+  
+- B.S., School of Mathematics, Sichuan University, 2013—2017.
