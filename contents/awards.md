@@ -1,16 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Shiing-Shen Chern Academic Newcomer Award（陈省身学术新人奖）, Nankai University, 2025.
 
-- National Scholarship for Graduate Student, 2024.
+-Jiang Lifu Outstanding Student Special Award（姜立夫优秀学生特等奖）, Nankai University, 2024.
 
-- First-Prize Scholarship (CUMT), 2024.
+- Baosteel Scholarship Outstanding Student Award（宝钢奖学金优秀学生奖）, 2024.
 
-- First-Prize Scholarship (CUMT), 2023.
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
