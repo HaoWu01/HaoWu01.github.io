@@ -79,11 +79,6 @@
   --bs-highlight-bg: #fff3cd;
 }
 
-.italic-journal {
-    font-style: italic;
-    font-family: 'Times New Roman', serif;
-}
-
 *,
 *::before,
 *::after {
