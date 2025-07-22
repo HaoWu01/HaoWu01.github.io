@@ -2,7 +2,7 @@
 
 const content_dir = 'contents/';
 const config_file = 'config.yml';
-const section_names = ['home', 'publications', 'education', 'awards'];  // 添加 education
+const section_names = ['home', 'publications', 'awards'];  // 添加 education
 
 window.addEventListener('DOMContentLoaded', event => {
 
