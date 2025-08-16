@@ -2,7 +2,7 @@
 
 
 
-I am currently a postdoctoral fellow in the School of Mathematics and Statistics at Xi'an Jiaotong University, working under the supervision of Professor [Yonglong Li](https://gr.xjtu.edu.cn/web/liyonglong). I obtained my Ph.D. in Statistics from Nankai University in 2025, where I was advised by Associate Professor [Lei Yu](https://lei-yu.github.io/).
+I am currently a postdoctoral fellow in the School of Mathematics and Statistics at Xi'an Jiaotong University, mentored by Professor [Yonglong Li](https://gr.xjtu.edu.cn/web/liyonglong). I obtained my Ph.D. in Statistics from Nankai University in 2025, under the supervision of Associate Professor [Lei Yu](https://lei-yu.github.io/).
 
 #### Contact
 
